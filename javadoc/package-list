@@ -9,6 +9,7 @@ io.requery.query.element
 io.requery.query.function
 io.requery.rx
 io.requery.sql
+io.requery.sql.gen
 io.requery.sql.platform
 io.requery.sql.type
 io.requery.util

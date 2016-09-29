@@ -7,6 +7,7 @@ io.requery.proxy
 io.requery.query
 io.requery.query.element
 io.requery.query.function
+io.requery.reactivex
 io.requery.rx
 io.requery.sql
 io.requery.sql.gen

@@ -8,6 +8,7 @@ io.requery.query
 io.requery.query.element
 io.requery.query.function
 io.requery.reactivex
+io.requery.reactor
 io.requery.rx
 io.requery.sql
 io.requery.sql.gen
